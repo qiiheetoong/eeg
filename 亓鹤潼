@@ -1,0 +1,2 @@
+# 绘制数据的前5秒，显示前64个通道，不剪裁
+raw.plot(duration=5, n_channels=64, clipping=None)
